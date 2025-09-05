@@ -27,7 +27,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de s
 
 ### ⭐ Projeto em Destaque
 
-**[Minha Página Pessoal](https://github.com/LeonardoDKz/pagina-pessoal)**
+**[Minha Página Pessoal](https://github.com/LeonardoDkZ/paginapessoal)**
 - **Descrição:** Cartão de visitas digital com links para meus perfis profissionais, criado com HTML e CSS.
 - **Tecnologias:** HTML, CSS.
 - **Aprendizados:** Reforço de conceitos essenciais de front-end e boas práticas de design.
